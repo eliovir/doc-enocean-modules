@@ -14,6 +14,8 @@
 
 |Nodon Soft Remote||http://www.domadoo.fr/fr/peripheriques/2625-nodon-soft-remote-enocean-cozy-grey-3700313920060.html[Acheter]
 
+|Nodon Capteur de température||http://www.domadoo.fr/fr/peripheriques/2627-nodon-capteur-de-temperature-sans-fils-et-sans-piles-blanc-3700313920183.html[Acheter]
+
 |Nodon Détecteur d'ouverture||http://www.domadoo.fr/fr/peripheriques/2626-nodon-detecteur-d-ouverture-sans-fils-et-sans-piles-blanc-3700313920138.html[Acheter]
 
 |Nodon Prise intelligente||http://www.domadoo.fr/fr/peripheriques/2630-nodon-prise-intelligente-enocean-schuko-3700313920015.html[Acheter]
@@ -24,7 +26,11 @@
 
 |Trio2sys Capteur de température 0/40°C O2line||http://www.domadoo.fr/fr/peripheriques/2012-trio2sys-capteur-de-temperature-0-40c-o2line-blanc-3662901000274.html[Acheter]
 
-|UBIWIZZ Télécommande ubi'remote||http://www.domadoo.fr/fr/peripheriques/2648-ubiwizz-telecommande-ubi-remote-blanc-3553740015966.html[Acheter]
+|Ubiwizz Télécommande ubi'remote||http://www.domadoo.fr/fr/peripheriques/2648-ubiwizz-telecommande-ubi-remote-blanc-3553740015966.html[Acheter]
+
+|Vimar Interrupteur double sans fil||http://www.domadoo.fr/fr/peripheriques/2164-vimar-interrupteur-double-blanc.html[Acheter]
+
+|Vimar Interrupteur sans fil 1 touche||http://www.domadoo.fr/fr/peripheriques/2169-vimar-interrupteur-blanc-1-touche-sans-plaque-support-transparent.html[Acheter]
 
 |===
 

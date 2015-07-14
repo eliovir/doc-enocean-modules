@@ -1,0 +1,32 @@
+= Liste des équipements compatible enOcean
+
+[cols="3*", options="header"] 
+|===
+|Nom|Remarque|Lien
+
+|Ewattch Squid Sous-compteur electrique||http://www.domadoo.fr/fr/suivi-energie/2859-ewattch-squid-sous-compteur-electrique-enocean-12-entrees-3770002148045.html[Acheter]
+
+|Ewattch Impulse capteur 2 en 1, téléinformation et impulsion||http://www.domadoo.fr/fr/suivi-energie/2869-ewattch-impulse-capteur-2-en-1-teleinformation-et-impulsion-3770002148107.html[Acheter]
+
+|Eltako Module de comptage d'énergie 16A||http://www.domadoo.fr/fr/peripheriques/2836-eltako-module-de-comptage-d-energie-16a-4010312303184.html[Acheter]
+
+|Eltako Module de comptage d'énergie 65A||http://www.domadoo.fr/fr/peripheriques/2837-eltako-module-de-comptage-d-energie-65a-4010312311059.html[Acheter]
+
+|Nodon Soft Remote||http://www.domadoo.fr/fr/peripheriques/2625-nodon-soft-remote-enocean-cozy-grey-3700313920060.html[Acheter]
+
+|Nodon Détecteur d'ouverture||http://www.domadoo.fr/fr/peripheriques/2626-nodon-detecteur-d-ouverture-sans-fils-et-sans-piles-blanc-3700313920138.html[Acheter]
+
+|Nodon Prise intelligente||http://www.domadoo.fr/fr/peripheriques/2630-nodon-prise-intelligente-enocean-schuko-3700313920015.html[Acheter]
+
+|Nodon Interrupteur mural||http://www.domadoo.fr/fr/peripheriques/2628-nodon-interrupteur-mural-enocean-cozi-grey-3700313920084.html[Acheter]
+
+|Trio2sys Capteur de contact de fenêtre O2line||http://www.domadoo.fr/fr/peripheriques/2011-trio2sys-capteur-de-contact-de-fenetre-o2line-blanc.html[Acheter]
+
+|Trio2sys Capteur de température 0/40°C O2line||http://www.domadoo.fr/fr/peripheriques/2012-trio2sys-capteur-de-temperature-0-40c-o2line-blanc-3662901000274.html[Acheter]
+
+|UBIWIZZ Télécommande ubi'remote||http://www.domadoo.fr/fr/peripheriques/2648-ubiwizz-telecommande-ubi-remote-blanc-3553740015966.html[Acheter]
+
+|===
+
+[NOTE]
+Cette liste est basé sur des retours utilisateurs, l'équipement Jeedom ne peut donc garantir que tous les modules de cette liste sont 100% fonctionels

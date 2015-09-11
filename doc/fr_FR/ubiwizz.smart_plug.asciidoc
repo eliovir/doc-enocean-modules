@@ -65,7 +65,7 @@ L'ID d’identification de l’appareil est ainsi mémorisé.
 Pour activer le mode répéteur appuyez sur le bouton tactile plus de 25 secondes et relachez. 
 Appuyez à nouveau briévement (100-400ms), chaque pression définit la séquence du choix en Niveau 1 ou 2.
 
-== Configuration Jeedom :
+== Configuration Jeedom
 
 * Activer le mode inclusion dans JeeDom
 * Activer le mode Apprentissage du SmartPlug
@@ -79,7 +79,7 @@ Appuyez à nouveau briévement (100-400ms), chaque pression définit la séquenc
 On peut ensuite tester les commandes ON/Off dans la même page.
 
 [IMPORTANT]
-== Note :
+== Note
 
 Actuellement, les boutons du widget ne marchent pas dans le Dashboard car l'info Etat va rester bloqué sur 1 ce qui va empêcher le va et vient.
 Par contre les actions fonctionnent bien si on les teste depuis la page de l'équipement (ou via un virtuel).

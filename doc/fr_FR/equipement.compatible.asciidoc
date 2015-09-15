@@ -1,4 +1,4 @@
-= Liste des équipements compatible enOcean
+= Liste des équipements compatibles enOcean
 
 [cols="3*", options="header"] 
 |===

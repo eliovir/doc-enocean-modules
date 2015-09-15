@@ -4,22 +4,22 @@ image::../images/Ubiwizz-smartplug/ubiwizz-smart-plug-enocean-FR.jpg[width=402,a
 image::../images/Ubiwizz-smartplug/ubiwizz-smart-plug-enocean-Schuko.jpg[width=449,align="center"]
 
 == Description
-Cette prise Enocean® SmartPlug permet de commander n’importe quel type de charge électrique tout en mesurant la consommation de l’appareil connecté dessus en Wh.
+Cette prise Enocean® SmartPlug permet de commander n'importe quel type de charge électrique tout en mesurant la consommation de l'appareil connecté dessus en Wh.
 La puissance réelle en Watt est renvoyé vers le contrôleur EnOcean toutes les secondes.
-Il est également capable de faire office de répéteur de niveau 1 et 2 (range extender).
-prise Enocean® SmartPlug permet de commander à distance vos appareils électrique tout en mesurant l'énergie consommée !
+Elle est également capable de faire office de répéteur de niveau 1 et 2 (range extender).
+La prise Enocean® SmartPlug permet de commander à distance vos appareils électrique tout en mesurant l'énergie consommée !
 
 == Fonction
 
 * Mesure de la puissance réelle/active en Watts
-* Mesure des données de consommation d’ énergie en temps réel en KWh
+* Mesure des données de consommation d'énergie en temps réel en KWh
 * Protection de sécurité pour enfants
 * Petite taille
-* Facilité d ‘installation
+* Facilité d'installation
 * Répéteur (produits de la gamme)
-* Faible consommation d\’énergie
+* Faible consommation d'énergie
 * Protection de réinitialisation automatique contre la surcharge
-* Très haute capacité de résistance aux surtensions ( 2,5 kV , non destructif / 6 kV , aucun risque d\’incendie )
+* Très haute capacité de résistance aux surtensions ( 2,5 kV , non destructif / 6 kV , aucun risque d'incendie )
 * Certifié selon IEC60884-1 / -2 à 5 , EN60730-1 , VDE620-1 ( certificat CB )
 
 == Caracteristiques technique
@@ -49,16 +49,16 @@ Note: Il est important que le bouton tactile soit relaché rapidement, car une l
 
 === Reset
 
-Pour effectuer un reset complet de votre SmartPlug et ainsi effacer tous les appareils associés, appuyez sur le bouton tactile plus de 20 secondes jusqu’à l’obtention de la Led Rouge fixe. 
+Pour effectuer un reset complet de votre SmartPlug et ainsi effacer tous les appareils associés, appuyez sur le bouton tactile plus de 20 secondes jusqu'à l'obtention de la Led Rouge fixe. 
 Relachez le bouton et appuyez à nouveau 5 secondes, la Led va clignoter vert 5 fois rapidement. 
 Le Smartplug est vierge.
 
 === Apprentissage
 
-Pour passer en mode apprentissage il suffit d’appuyer sur le bouton tactile pendant 5 secondes, le voyant va passer au rouge clignotant (1 fois par seconde).
+Pour passer en mode apprentissage il suffit d'appuyer sur le bouton tactile pendant 5 secondes, le voyant va passer au rouge clignotant (1 fois par seconde).
 Vous pouvez à présent appuyer sur votre Inter, capteur, ou commande Jeedom :
-- la Led du SmartPlug doit passer au clignotement vert (5 fois) pour confirmer l’apprentissage. 
-L'ID d’identification de l’appareil est ainsi mémorisé.
+- la Led du SmartPlug doit passer au clignotement vert (5 fois) pour confirmer l'apprentissage. 
+L'ID d'identification de l'appareil est ainsi mémorisé.
 
 === Répéteur
 
@@ -71,7 +71,7 @@ Appuyez à nouveau briévement (100-400ms), chaque pression définit la séquenc
 * Activer le mode Apprentissage du SmartPlug
 * Dès que le Smartplug clignotte en rouge (il est passé en mode Apprentissage):
 ** il faut relâcher pendant au moins 5 secondes,
-** puis de nouveau maintenir le bouton enfoncé jusqu’à ce que Jeedom réagit et commence son paramétrage.
+** puis de nouveau maintenir le bouton enfoncé jusqu'à ce que Jeedom réagit et commence son paramétrage.
 * On attend qu'il ouvre la fenêtre du nouvel équipement qui est automatiquement reconnu comme étant le Profil 1 : "[D2-01-09] Smart Plug"
 * A ce moment on ajoute le profil 2 : "[A5-12-01] Compteur/Consommation" et on sauve.
 * Ensuite on passe de nouveau le SmartPlug en mode Apprentissage, et on clique sur le bouton ON (dans Jeedom) pour faire le lien avec les commandes Jeedom.
@@ -81,9 +81,10 @@ On peut ensuite tester les commandes ON/Off dans la même page.
 [IMPORTANT]
 == Note
 
-Actuellement, les boutons du widget ne marchent pas dans le Dashboard car l'info Etat va rester bloqué sur 1 ce qui va empêcher le va et vient.
+Actuellement, les boutons du widget ne marchent pas dans le Dashboard car l'info Etat reste bloquée sur 1 ce qui va empêcher le va et vient.
 Par contre les actions fonctionnent bien si on les teste depuis la page de l'équipement (ou via un virtuel).
 Le seul retour que l'on a pour le moment, c'est la puissance exprimée en Watt, mais pour la voir correctement il faut changer le type de l'info PUISSANCE pour Numérique (et indiquer l'unité "Watt")... 
+Une prochaine mise à jour devrait corriger ce problème...
 
 image::../images/Ubiwizz-smartplug/SmartPlug_Config.png[width=1691,align="center"]
 

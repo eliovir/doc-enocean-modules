@@ -1,4 +1,4 @@
-- Actionneur radio pour stores et rideaux à rouleaux ELTAKO FSB61NP-230V
+= Actionneur radio pour stores et rideaux à rouleaux ELTAKO FSB61NP-230V
 
 image::../images/Eltako-FSB61NP/FSB61NP-230v.png[width=500,align="center"]
 
@@ -46,7 +46,7 @@ Ce module est simple à installer:
 * il suffit de raccorder l'arrivée électrique, la phase (L) et le neutre(N) respectivement sur les bornes 3 et 4 du même nom.
 * raccordez aussi le commun de votre moteur sur le neutre de l'arrivée électrique.
 * raccorder ensuite le fil de montée sur la borne 1 et celui de la descente sur la borne 2.
-* Re-vérifiez deux fois le bon raccordement, puis remttez le courant, et c'est fait !
+* Re-vérifiez deux fois le bon raccordement, puis remettez le courant, et c'est fait !
 
 image::../images/Eltako-FSB61NP/FSB61NP_shemas.jpg[width=262,align="center"]
 

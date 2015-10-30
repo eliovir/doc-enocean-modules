@@ -28,13 +28,13 @@
 
 |Trio2sys Capteur de température 0/40°C O2line||||http://www.domadoo.fr/fr/peripheriques/2012-trio2sys-capteur-de-temperature-0-40c-o2line-blanc-3662901000274.html[Acheter]
 
-|Ubiwizz Smart Plug EnOcean |retour conso:ok|Retour d'état:Nok||http://www.domadoo.fr/fr/peripheriques/2667-ubiwizz-smart-plug-enocean.html[Acheter] https://jeedom.fr/doc/documentation/enocean-modules/fr_FR/doc-enocean-modules-ubiwizz.smart_plug.html[Doc]
+|Ubiwizz Smart Plug EnOcean |retour conso: ok|Retour d'état: Nok||http://www.domadoo.fr/fr/peripheriques/2667-ubiwizz-smart-plug-enocean.html[Acheter] https://jeedom.fr/doc/documentation/enocean-modules/fr_FR/doc-enocean-modules-ubiwizz.smart_plug.html[Doc]
 
-|Ubiwizz Télécommande ubi'remote||http://www.domadoo.fr/fr/peripheriques/2648-ubiwizz-telecommande-ubi-remote-blanc-3553740015966.html[Acheter]
+|Ubiwizz Télécommande ubi'remote||||http://www.domadoo.fr/fr/peripheriques/2648-ubiwizz-telecommande-ubi-remote-blanc-3553740015966.html[Acheter]
 
-|Vimar Interrupteur double sans fil||http://www.domadoo.fr/fr/peripheriques/2164-vimar-interrupteur-double-blanc.html[Acheter]
+|Vimar Interrupteur double sans fil||||http://www.domadoo.fr/fr/peripheriques/2164-vimar-interrupteur-double-blanc.html[Acheter]
 
-|Vimar Interrupteur sans fil 1 touche||http://www.domadoo.fr/fr/peripheriques/2169-vimar-interrupteur-blanc-1-touche-sans-plaque-support-transparent.html[Acheter]
+|Vimar Interrupteur sans fil 1 touche||||http://www.domadoo.fr/fr/peripheriques/2169-vimar-interrupteur-blanc-1-touche-sans-plaque-support-transparent.html[Acheter]
 
 |===
 

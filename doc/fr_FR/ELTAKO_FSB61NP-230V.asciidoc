@@ -1,6 +1,6 @@
 - Actionneur radio pour stores et rideaux à rouleaux ELTAKO FSB61NP-230V
-image::
 
+image::../images/FSB61NP-230V/FSB61NP-230v.png[width=500,align="center"]
 
 == DESCRIPTION:
 
@@ -9,6 +9,19 @@ Cet actionneur radio dispose de la technologie Hybride la plus moderne développ
 En plus d'une commande à travers de l'entrée radio vers une antenne incorporée, il est possible de commander ce télérupteur-relais de groupe à l'aide d'un bouton-poussoir conventionnel local.
 
 Il peut être appairé avec jusqu'à 35 émetteurs radio bouton-poussoir, dont un ou plusieurs boutons-poussoirs pour commande centralisée.
+
+
+== INSTALLATION:
+
+Très simple à installer:
+
+* COUPER LE COURANT AVANT DE COMMENCER !
+* il suffit de raccorder l'arrivée électrique, la phase (L) et le neutre(N) respectivement sur les bornes 3 et 4 du même nom.
+* raccordez aussi le commun de votre moteur sur le neutre de l'arrivée électrique.
+* raccorder ensuite le fil de montée sur la borne 1 et celui de la descente sur la borne 2.
+* Re-vérifiez deux fois le bon raccordement, puis remttez le courant, et c'est fait !
+
+image::../images/FSB61NP-230V/FSB61NP_shemas.jpg[width=262,align="center"]
 
 == FONCTIONS:
 
@@ -121,3 +134,4 @@ Renommez le "Bouton B" en "Ouvert" car sa valeur binaire est 1 si le volet est o
 * Allez sur le DashBoard, et vous aurez les commandes des volets et les retours d'états...
 * Note, faites une ouverture et fermeture complète la première fois pour que les infos se synchronisent.
 
+#_@Patrick_# 

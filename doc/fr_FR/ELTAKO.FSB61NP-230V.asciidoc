@@ -50,6 +50,9 @@ Ce module est simple à installer:
 
 image::../images/Eltako-FSB61NP/FSB61NP_shemas.jpg[width=262,align="center"]
 
+Notez que vous avez la possibilité d'ajouter un bouton poussoir local (surtout pas un inter) entre la 5ème borne (la plus a droite et la phase (3ème borne (L) )...
+Dans ce cas à chaque impulsion le volet monte (s'il est en bs) et descend dans le cas contraire.
+
 
 ==== RESET DU MODULE
 Avant de faire l'association, vous devez effacer complètement le contenu de la mémoire :

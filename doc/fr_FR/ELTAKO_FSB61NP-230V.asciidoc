@@ -10,19 +10,6 @@ En plus d'une commande à travers de l'entrée radio vers une antenne incorporé
 
 Il peut être appairé avec jusqu'à 35 émetteurs radio bouton-poussoir, dont un ou plusieurs boutons-poussoirs pour commande centralisée.
 
-
-== INSTALLATION:
-
-Très simple à installer:
-
-* COUPER LE COURANT AVANT DE COMMENCER !
-* il suffit de raccorder l'arrivée électrique, la phase (L) et le neutre(N) respectivement sur les bornes 3 et 4 du même nom.
-* raccordez aussi le commun de votre moteur sur le neutre de l'arrivée électrique.
-* raccorder ensuite le fil de montée sur la borne 1 et celui de la descente sur la borne 2.
-* Re-vérifiez deux fois le bon raccordement, puis remttez le courant, et c'est fait !
-
-image::../images/FSB61NP-230V/FSB61NP_shemas.jpg[width=262,align="center"]
-
 == FONCTIONS:
 
 * Commandez vos stores ou volets roulants à distance
@@ -48,10 +35,25 @@ image::../images/FSB61NP-230V/FSB61NP_shemas.jpg[width=262,align="center"]
 ** Placoplatre / Bois : 30m, à travers 5 parois maximum
 
 
-=== Utilisation de l'actionneur FSB61NP-230V
+=== UTILISATION DE L'ACTIONNEUR FSB61NP-230V :
+
+
+=== INSTALLATION MATERIEL:
+
+Ce module est simple à installer:
+
+* COUPER LE COURANT AVANT DE COMMENCER !
+* il suffit de raccorder l'arrivée électrique, la phase (L) et le neutre(N) respectivement sur les bornes 3 et 4 du même nom.
+* raccordez aussi le commun de votre moteur sur le neutre de l'arrivée électrique.
+* raccorder ensuite le fil de montée sur la borne 1 et celui de la descente sur la borne 2.
+* Re-vérifiez deux fois le bon raccordement, puis remttez le courant, et c'est fait !
+
+image::../images/FSB61NP-230V/FSB61NP_shemas.jpg[width=262,align="center"]
+
 
 ==== RESET DU MODULE
 Avant de faire l'association, vous devez effacer complètement le contenu de la mémoire :
+
 * Placer le sélecteur du bas sur MIN (en butée dans le sens INVERSE des aiguilles d'une montre) en butée à gauche.
 * Mettez le commutateur rotatif du haut sur la position CLR.
 * La LED clignote à une cadence élevée.
@@ -63,6 +65,7 @@ Avant de faire l'association, vous devez effacer complètement le contenu de la 
 
 Par défaut, l'envoi des télégrammes de retour d'état sont désactivés.
 Afin de pouvoir les recevoir, il faut donc activer cette fonctionnalité :
+
 * Placer le sélecteur du bas sur MAX (en butée dans le sens des aiguilles d'une montre) en butée à droite.
 * Mettez le commutateur rotatif du haut sur la position CLR.
 * La LED clignote à une cadence élevée.
@@ -75,6 +78,7 @@ NOTE: en répétant la procédure, vous désactiverez le retour d’état, et da
 ==== ASSOCIATION
 
 NOTE: 
+
 * Vous devez être très près de la clef pour faire l'association (idéalement ~5cm).
 * Vous devez impérativement mettre le sélecteur du bas sur la position "MIN" AVANT TOUTE INCLUSION sous peine d'avoir des commandes qui ne fonctiooneront pas normalement, et la seule solution sera alors de faire un reset complet du module !
 
@@ -113,7 +117,7 @@ Note : Vous pourrez ajuster les temps de descente/montée avec le sélecteur du 
 NOTE: Ne pas faire la manip avec un interrupteur EnOcean (que vous auriez par exemple déjà associé avec le module), ni avec une action depuis Jeedom car cela risque de perturber le résultat et vous risquez d'inclure les mauvaises informations...
 * sauvez le nouveau module créé automatiquement
 * Donnez un nom à ce module (STATUTS_VOLET_X)
-Renommez le "Bouton B" en "Ouvert" car sa valeur binaire est 1 si le volet est ouvert et 0 si fermé
+* Renommez le "Bouton B" en "Ouvert" car sa valeur binaire est 1 si le volet est ouvert et 0 si fermé
 * Renommez le bouton Direction en "Entre-Ouvert car sa valeur binaire est 1 si le volet est entre-ouvert et 0 si totalement ouvert ou fermé
 * conservez aussi dBm (qui vous donne  la force du signal)
 * Supprimez TOUTES les autres commandes : ne conservez QUE les trois citées plus haut !

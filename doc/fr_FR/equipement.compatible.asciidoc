@@ -1,6 +1,6 @@
 = Liste des équipements compatibles enOcean
 
-[cols="3*", options="header"] 
+[cols="5*", options="header"] 
 |===
 |Nom|Fonctions OK|Fonctions NOK|Remarque|Lien
 
